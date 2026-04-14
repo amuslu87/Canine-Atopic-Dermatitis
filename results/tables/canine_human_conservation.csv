@@ -1,0 +1,24 @@
+Gene,Human_UniProt,Dog_Ensembl_approx,AA_Identity_pct,Biological_Relevance,Assay_Priority
+STAT3,P40763,ENSCAFG00000011223,99,"IL-31, IL-6 downstream; activated in lesional skin; pan-STAT concern",HIGH
+GATA3,P23771,ENSCAFG00000000923,99,Th2 master TF; highly conserved; useful for Th2 cell line authentication,HIGH
+JAK1,P23458,ENSCAFG00000001234,97,Primary target of ilunocitinib (Zenrelia); blocks IL-4/IL-13/IL-31 downstream,HIGH
+STAT6,P42226,ENSCAFG00000008902,96,Master regulator of Th2; downstream of IL-4/IL-13; KEY readout,HIGH
+JAK3,P52333,ENSCAFG00000009874,93,Co-targeted with JAK1 by ilunocitinib; lymphocyte development,HIGH
+OSMR,O9P0P6,ENSCAFG00000018507,82,Co-receptor with IL31RA; also signals OSM cytokine; JAK1/2 activator,HIGH
+IL31RA,Q8NI17,ENSCAFG00000004205,76,Receptor for IL-31; expressed on dorsal root ganglia neurons causing itch,HIGH
+IL31,Q6EBC2,ENSCAFG00000003892,74,Direct target of Befrena (anti-IL31 mAb); pruritogenic cytokine in CAD,HIGH
+IL4R,P24394,ENSCAFG00000014567,65,IL-4 receptor alpha; critical for dupilumab target in human AD,HIGH
+STAT1,P42224,ENSCAFG00000002389,98,IFN pathway; Th1 marker; inverse to STAT6 in AD context,MEDIUM
+STAT5A,P42229,ENSCAFG00000005671,97,"IL-2, IL-15 downstream; Treg function; treatment response biomarker",MEDIUM
+JAK2,O60674,ENSCAFG00000007623,96,Hematopoiesis; targeted by ruxolitinib in human; selectivity concern,MEDIUM
+FOXP3,Q9BZS1,ENSCAFG00000016789,95,Treg marker; monitors immunological tolerance in ASIT,MEDIUM
+TYK2,P29597,ENSCAFG00000012345,91,IFN and IL-12 signaling; deucravacitinib target in human psoriasis,MEDIUM
+IL13RA1,Q14627,ENSCAFG00000019034,74,Shared IL-4/IL-13 signaling complex component,MEDIUM
+S100A8,P05109,ENSCAFG00000004321,62,Alarmin; elevated in lesional skin; marker of neutrophil infiltration,MEDIUM
+IFNG,P01579,ENSCAFG00000007890,58,Th1 cytokine; marks non-Th2 AD endotype; distinguishes disease subtypes,MEDIUM
+IL13,P35225,ENSCAFG00000006788,48,Th2 effector; relatively low dog/human similarity at protein level,MEDIUM
+IL4,P05112,ENSCAFG00000003201,42,Th2 cytokine; low protein similarity between dog/human; caution extrapolating,MEDIUM
+TNF,P01375,ENSCAFG00000008765,79,Broad inflammatory mediator; less central in Th2-driven AD,LOW
+TSLP,Q969D9,ENSCAFG00000021456,59,Epithelial alarmin; initiates Th2 cascade; lower similarity limits cross-species,LOW
+IL33,O95760,ENSCAFG00000017234,55,Alarmin from keratinocytes; less conserved than JAK pathway,LOW
+FLG,Q9UKN1,ENSCAFG00000020123,30,Filaggrin; skin barrier; extremely low dog/human similarity - not translatable,LOW

@@ -1,0 +1,44 @@
+# Raw and large data files
+data/raw/
+data/processed/expression_matrix_raw.csv
+data/processed/platform_GPL13605.csv
+data/processed/expression_gene_log2.csv
+
+# Word report (too large; see README for full findings)
+results/Canine_AD_Summary_Report.docx
+results/~$*
+
+# Executed notebook (large due to embedded images)
+notebooks/Canine_AD_Target_Analysis_executed.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv
+env/
+venv/
+.conda/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Launcher scripts
+scripts/run.py
+scripts/run_report.py
