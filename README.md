@@ -159,13 +159,13 @@ Genes in the lower-right quadrant (upregulated in AD, reversed by ASIT) define t
 
 ![Assay Matrix](results/figures/09_Assay_Priority_Matrix.png)
 
-**Priority 1 (0–3 months):**
+**Priority 1:**
 - JAK1/3 biochemical kinase assay (ADP-Glo / TR-FRET) — selectivity vs. JAK2/TYK2
 - pSTAT6 cellular assay in canine DH82 macrophages — IL-4-stimulated flow cytometry
 - Canine PBMC cytokine multiplex (IL-31, IL-4, IL-13, IFNγ) — MSD panel
 - JAK selectivity profiling panel across all 4 JAK isoforms
 
-**Priority 2 (3–6 months):**
+**Priority 2:**
 - IL-31-induced STAT3 activation (BaF3 + canine IL31RA/OSMR stable line)
 - Anti-IL-31 mAb neutralization bioassay (IL-31-driven BaF3 proliferation)
 - Canine keratinocyte barrier disruption assay (CPEK cells, TEER + S100A8 readout)
