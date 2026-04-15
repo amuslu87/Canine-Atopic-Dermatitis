@@ -157,8 +157,6 @@ Genes in the lower-right quadrant (upregulated in AD, reversed by ASIT) define t
 
 ### 6. Prioritized In Vitro Assay Cascade
 
-![Assay Matrix](results/figures/09_Assay_Priority_Matrix.png)
-
 **Priority 1:**
 - JAK1/3 biochemical kinase assay (ADP-Glo / TR-FRET) — selectivity vs. JAK2/TYK2
 - pSTAT6 cellular assay in canine DH82 macrophages — IL-4-stimulated flow cytometry
